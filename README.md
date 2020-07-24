@@ -20,6 +20,9 @@ TOC
 |[JSON:API Access](https://www.drupal.org/project/jsonapi_access)| 8.x | It provides access checks for any entity operations in the JSON response. Based on JSONAPI:Extras.
 |[JSON:API Extras](https://www.drupal.org/project/jsonapi_extras)| 8.x | The JSON:API module in code provides zero configuration out of the box. Use JSON:API Extras to customize your API. JSON:API Extras provides a means to override and provide limited configurations to the default zero-configuration implementation provided by the JSON:API in Core.
 |[JSON:API Hypermedia](https://www.drupal.org/project/jsonapi_hypermedia)|8.8^|It adds support for rich, dynamic linking between your application's resources. It does not add any links of its own. Instead, it provides a plugin system for other modules to leverage.
+| [JSON:API Schema](https://www.drupal.org/project/jsonapi_schema)| 8.x | JSON:API Schema provides [JSON-Schema](https://json-schema.org/) formatted schemas for JSON:API resources.
+|[Subrequests](https://www.drupal.org/project/subrequests)| 8.x | Tell the system to execute several requests in a single bootstrap. Then return all the things.
+
 
 
 
