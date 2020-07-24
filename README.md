@@ -3,7 +3,6 @@
 TOC
 
 - [Drupal](#drupal)
-- [Content](#content)
 - [Decoupled Frontend](#decoupled-frontend)
 
 ---
@@ -13,7 +12,7 @@ TOC
 ### Modules
 
 | Name | Core Compatibility | Short description |
-|---| ---| ---| ---|
+|---| ---| ---|
 |[JSON:API](https://www.drupal.org/project/jsonapi) | 8.x | Main module that got into core.
 |[JSON:API Extras](https://www.drupal.org/project/jsonapi_extras)| 8.x | The JSON:API module in code provides zero configuration out of the box. Use JSON:API Extras to customize your API. JSON:API Extras provides a means to override and provide limited configurations to the default zero-configuration implementation provided by the JSON:API in Core.
 |[JSON:API Hypermedia](https://www.drupal.org/project/jsonapi_hypermedia)|8.8^|It adds support for rich, dynamic linking between your application's resources. It does not add any links of its own. Instead, it provides a plugin system for other modules to leverage.
@@ -34,7 +33,7 @@ Content deserves a special mention. Contenta is an API-First Drupal distribution
 ### Frameworks
 
 | Name | Ecosystem | Short description |
-|---| ---| ---| ---|
+|---| ---| ---|
 | ContentJS | Javascript | The Node.js counterpart for Contenta CMS distribution in Drupal.
 | Druxt | Vue/Nuxt | Drupal + Nuxt
 
@@ -42,13 +41,13 @@ Content deserves a special mention. Contenta is an API-First Drupal distribution
 
 Node Packages
 | Name | Ecosystem | Short description |
-|---| ---| ---| ---|
+|---| ---| ---|
 | juissy | npm | 
 
 
 GithHub Repo
 | Name | Ecosystem | Short description |
-|---| ---| ---| ---|
+|---| ---| ---|
 
 
 
