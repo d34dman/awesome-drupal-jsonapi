@@ -24,7 +24,7 @@ TOC
 | Name | Source | Short description |
 |---| ---| ---|
 | [Contenta CMS](http://www.contentacms.org/) | [GitHub](https://github.com/contentacms) | Content deserves a special mention. Contenta is an API-First Drupal distribution.
-| [Druxt.js](https://github.com/druxt/druxt.js)| [GitHub](https://github.com/druxt/druxt.js) | Druxt.js connects your Drupal backend to your Nuxt.js frontend through the power of Drupal's JSON API.
+
 ## Decoupled Frontend
 
 ### Frameworks
@@ -32,7 +32,7 @@ TOC
 | Name | Ecosystem | Short description |
 |---| ---| ---|
 | [ContentaJS](https://github.com/contentacms/contentajs) | Javascript | The Node.js counterpart for Contenta CMS distribution in Drupal.
-| Druxt | Vue / Nuxt | Drupal + Nuxt
+| [Druxt.js](https://github.com/druxt/druxt.js)| [GitHub](https://github.com/druxt/druxt.js) | Druxt.js connects your Drupal backend to your Nuxt.js frontend through the power of Drupal's JSON API.
 
 ### Libraries
 
