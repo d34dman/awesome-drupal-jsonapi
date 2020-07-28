@@ -57,7 +57,7 @@ Please refer to the list maintained on jsonapi.org : [JSON:API — Implementatio
 | Name | Source | Short description |
 |---| ---| ---|
 | [Contenta CMS](http://www.contentacms.org/) | [GitHub](https://github.com/contentacms) | **Content deserves a special mention.** Contenta is an API-First Drupal distribution.
-|[EZContent](https://www.drupal.org/project/ezcontent) | EzContent is a Drupal installation profile that addresses common content management pain points and accelerates CMS implementations.
+|[EZContent](https://www.drupal.org/project/ezcontent) | Drupal.org | EzContent is a Drupal installation profile that addresses common content management pain points and accelerates CMS implementations.
 
 
 ## Decoupled Frontend
