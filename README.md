@@ -1,4 +1,4 @@
-# Drupal & JSON:API
+# Awesome Drupal & JSON:API
 
 TOC
 
