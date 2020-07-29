@@ -64,6 +64,7 @@ Please refer to the list maintained on jsonapi.org : [JSON:API — Implementatio
 
 | Name | Core Compatibility | Short description |
 |---| ---| ---|
+|[JSON Web Token Authentication (JWT) \| Drupal.org](https://www.drupal.org/project/jwt) | 8.x | The JSON Web Token (JWT) Authentication module provides a Drupal authentication provider that uses JWTs as the primary factor of authentication.
 |[OAuth2 JWT SSO](https://www.drupal.org/project/oauth2_jwt_sso) | 8.x | OAuth2 JWT Single Sign On Module configures Drupal to use remote and centralized authentication service. This module works with any SSO provider which uses OAuth2 as the authentication framework, and JWT as the Bearer token. Therefore, this module works with Drupal's own OAuth 2.0.
 |[Simple OAuth](https://www.drupal.org/project/simple_oauth) | 8.x | Simple OAuth is an implementation of the [OAuth 2.0 Authorization Framework RFC](https://tools.ietf.org/html/rfc6749).
 
