@@ -59,6 +59,18 @@ Please refer to the list maintained on jsonapi.org : [JSON:API — Implementatio
 | [Contenta CMS](http://www.contentacms.org/) | [GitHub](https://github.com/contentacms) | **Content deserves a special mention.** Contenta is an API-First Drupal distribution.
 |[EZContent](https://www.drupal.org/project/ezcontent) | Drupal.org | EzContent is a Drupal installation profile that addresses common content management pain points and accelerates CMS implementations.
 
+### Authentication
+
+
+| Name | Core Compatibility | Short description |
+|---| ---| ---|
+|[OAuth2 JWT SSO](https://www.drupal.org/project/oauth2_jwt_sso) | 8.x | OAuth2 JWT Single Sign On Module configures Drupal to use remote and centralized authentication service. This module works with any SSO provider which uses OAuth2 as the authentication framework, and JWT as the Bearer token. Therefore, this module works with Drupal's own OAuth 2.0.
+|[Simple OAuth](https://www.drupal.org/project/simple_oauth) | 8.x | Simple OAuth is an implementation of the [OAuth 2.0 Authorization Framework RFC](https://tools.ietf.org/html/rfc6749).
+
+
+
+
+
 
 ## Decoupled Frontend
 
